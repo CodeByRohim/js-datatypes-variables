@@ -1,0 +1,38 @@
+body{
+  background-color: aliceblue;
+  font-family: 'Courier New', Courier, monospace;
+}
+.p-text{
+  color: rgb(233, 164, 14);
+  font-size: 25px;
+  margin-top: 20px;
+}
+.p-text:hover{
+  background-color: antiquewhite;
+}
+.name-button{
+  width: 100px;
+  margin-right: 15px;
+  border-radius: 10px;
+  border: 1px solid  rgb(233, 164, 14);
+
+}
+.name-button:hover{
+background-color: rgb(219, 232, 232);
+}
+.onclick{
+  background-color: rgb(32, 215, 215);
+}
+
+
+/* CELSIUS TO FAHRENHEIT */
+.result {
+  font-size: 20px;
+  margin-top: 10px;
+}
+#celsius{
+  margin-bottom: 5px;
+}
+button{
+  border: 1px solid rgb(173, 34, 34);
+}
